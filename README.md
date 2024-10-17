@@ -17,13 +17,3 @@ I'm currently working on 5G/6G<br>I'm pursuing MS(by research) from IIT Madras i
  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanchan0&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kanchan0&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kanchan0&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kanchan0&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-
----
-[![](https://visitcount.itsvg.in/api?id=kanchan0&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
