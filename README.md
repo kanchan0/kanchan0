@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, I am Kanchan:
 I'm currently working on 5G/6G<br>I'm pursuing MS(by research) from IIT Madras in CSE<br>
 
 
